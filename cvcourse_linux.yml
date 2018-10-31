@@ -1,4 +1,4 @@
-name: cvcourse
+name: python-cvcourse
 channels:
   - menpo
   - conda-forge
